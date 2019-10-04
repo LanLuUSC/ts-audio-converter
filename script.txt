@@ -1,0 +1,1 @@
+ffmpeg -i "C:\Users\lan.lu\Desktop\ts converter\Materials\rocketman.ts" -f mp3 -acodec mp3 -aq 2 -vn "C:\Users\lan.lu\Desktop\ts converter\Materials\rocketman.mp3"
